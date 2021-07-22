@@ -6,7 +6,8 @@ Write a function that simply repeats the string a given number of times:
 repeatString('hey', 3) // returns 'heyheyhey'
 ```
 
-You will notice in this exercise that there are multiple tests (see in file `repeatString.spec.js`). Only the first test is currently enabled. So after making sure that this first one passes, enable the others one by one by deleting the `.skip` from the `test.skip()` function.
+You will notice in this exercise that there are multiple tests (see in file `repeatString.spec.js`). Only the first test is currently enabled. 
+So after making sure that this first one passes, enable the others one by one by deleting the `.skip` from the `test.skip()` function.
 
 
 ## Hints
